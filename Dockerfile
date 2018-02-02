@@ -1,4 +1,4 @@
-FROM sostrader/SOSMT5 
+FROM sostrader/sosmt5 
 MAINTAINER Emerson Pedrosos <emerson@sostrader.com.br>
 
 USER xclient
