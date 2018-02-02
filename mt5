@@ -2,7 +2,7 @@
 
 set -e
 
-IMAGE="vmlellis/mt5"
+IMAGE="sostrader/sosmt5"
 
 docker run --rm -it \
            -v $(pwd)/MetaTrader\ 5:/home/xclient/.wine64/drive_c/Program\ Files/MetaTrader\ 5 \
